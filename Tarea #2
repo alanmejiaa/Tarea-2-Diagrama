@@ -1,7 +1,9 @@
 Tarea #2 
 Diagrama
+```mermaid
 graph TD;
     A-->B;
     A-->C;
     B-->D;
     C-->D;
+```
